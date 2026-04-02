@@ -1,6 +1,6 @@
 # Lolin32 Footprint
 
-![](screenshot.png)
+![](lolin32.png)
 
 Please note that the 3D model is not the exact same version. However it's close enough in order to be useful in a 3D design.
 
