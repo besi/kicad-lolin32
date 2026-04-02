@@ -627,7 +627,7 @@
 	)
 	(model "${KIPRJMOD}/lib/lolin32/lolin32.step"
 		(offset
-			(xyz 0 2.54 0)
+			(xyz 0 2.54 4)
 		)
 		(scale
 			(xyz 1 1 1)
