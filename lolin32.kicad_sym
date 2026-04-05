@@ -387,7 +387,7 @@
 			)
 		)
 		(property "Footprint" "lolin32:lolin32"
-			(at 16.51 -11.43 0)
+			(at 0 29.718 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -829,10 +829,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin input line
 				(at -12.7 19.05 0)
 				(length 2.54)
-				(name "36/VP"
+				(name "I36/VP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -973,10 +973,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin input line
 				(at -12.7 16.51 0)
 				(length 2.54)
-				(name "39/VN"
+				(name "I39/VN"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1027,10 +1027,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin input line
 				(at -12.7 8.89 0)
 				(length 2.54)
-				(name "34"
+				(name "I34"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1045,10 +1045,10 @@
 					)
 				)
 			)
-			(pin bidirectional line
+			(pin input line
 				(at -12.7 6.35 0)
 				(length 2.54)
-				(name "35"
+				(name "I35"
 					(effects
 						(font
 							(size 1.27 1.27)
